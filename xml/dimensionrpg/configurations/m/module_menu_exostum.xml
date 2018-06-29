@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms"></configuration>
+	
+	<configuration id="position">dans_module</configuration>
+	<configuration id="position_ordre">0</configuration>
+	
+	<configuration id="php_variable">
+		<php_variable id="conteneur_liste">
+			<ul class="test3"></ul>
+		</php_variable>
+		<php_variable id="conteneur_lien">
+			<li class="test4"></li>
+		</php_variable>
+	</configuration>
+		
+	<configuration id="contenu" use_php="true">
+		return $GLOBALS['exoportail']->liens_generique->generer_liste_lien('exostum',$conteneur_liste,$conteneur_lien,$GLOBALS['exoportail']->site_config_xml->url_distante[0]);
+	</configuration>
+	
+</configurations>

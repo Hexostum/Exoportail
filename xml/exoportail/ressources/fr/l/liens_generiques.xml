@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ressources>
+	<ressource id="lien_inscription_texte">inscrivez-vous dès maintenant</ressource>
+	<ressource id="lien_inscription_title">Inscrivez-vous, et gagnez des codes gratuitements !</ressource>
+	<ressource id="lien_exostum_texte">Exostum</ressource>
+	<ressource id="lien_exostum_1_texte">Scelzo Patrick Jean (Auto-Entrepreneur)</ressource>
+	<ressource id="lien_exoportail_texte">Exoportail</ressource>
+	<ressource id="lien_support_texte">Support.</ressource>
+</ressources>

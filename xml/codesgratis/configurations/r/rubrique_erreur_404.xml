@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms">
+		<module id="page_haut" />
+		<module id="menu" />
+		<module id="page_bas" />
+	</configuration>
+	<configuration id="page_url">rubrique_id=erreur404</configuration>
+	<configuration id="contenu">
+		<div class="element" id="erreur404">
+			<div class="element_titre">{RESSOURCES.RUBRIQUE.ERREUR_404.ELEMENT_TITRE}</div>
+			<div class="element_contenu">{RESSOURCES.RUBRIQUE.ERREUR_404.ELEMENT_CONTENU}</div>
+		</div>
+	</configuration>
+</configurations>

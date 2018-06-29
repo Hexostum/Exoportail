@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms"></configuration>
+	<configuration id="class">menu_exostum</configuration>
+	
+	<configuration id="position">dans_module</configuration>
+	<configuration id="position_ordre">0</configuration>
+	
+	<configuration id="liste_liens">liens_exostum</configuration>
+	
+	<configuration id="menu_titre">
+		<h1 class="menu_titre"></h1>	
+	</configuration>
+	
+	<configuration id="menu_ul">
+		<ul class="menu_vertical"></ul>
+	</configuration>
+	
+	<configuration id="menu_li">
+		<li class="menu_element"></li>
+	</configuration>
+	
+	<configuration id="menu_li_ici">
+		<li class="menu_element_ici"></li>
+	</configuration>
+	
+</configurations>

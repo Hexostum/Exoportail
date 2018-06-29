@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms"></configuration>
+	<configuration id="position">dans_module</configuration>
+	<configuration id="position_ordre">0</configuration>
+	<configuration id="decorations"></configuration>
+	<configuration id="contenu">
+		<h1 class="petit_titre_h">{RESSOURCES.MODULE.PARTENAIRES.TITRE}</h1>
+		<ul class="menu_h">
+			<li><a href="http://www.gagner-argent-internet.org" title="GSI : Gagner de l\'argent avec l\'Internet">GSI</a></li>
+			<li><a href="http://www.envoyersms.biz/" target="_blank" title="Envoyer SMS">Envoyer SMS</a></li>
+		</ul>
+	</configuration>
+</configurations>

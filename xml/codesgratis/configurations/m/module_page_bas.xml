@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms">
+		<module id="page_bas_support" />
+		<module id="page_bas_partenaires" />
+		<module id="page_bas_site_informations" />
+		<module id="page_bas_decoration" />
+	</configuration>
+	
+	<configuration id="position">apres_rubrique</configuration>
+	<configuration id="position_ordre">0</configuration>
+	
+	<configuration id="decorations"></configuration>
+	
+</configurations>

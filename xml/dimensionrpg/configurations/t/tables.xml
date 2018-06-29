@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+	<config id="sessions">sessions</config>
+	<config id="membres">membres</config>
+	<config id="majs">majs</config>
+	<config id="commandes">commandes</config>
+</configs>

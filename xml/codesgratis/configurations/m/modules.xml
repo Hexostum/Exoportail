@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules>
+	<module id="menu_statique">menu_statique</module>
+	<module id="page_pied">page_pied</module>
+	<module id="site_informations">site_informations</module>
+	<module id="partenaires">partenaires</module>
+	<module id="lien_support">lien_support</module>
+</modules>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms"></configuration>
+	<configuration id="position">avant_rubrique</configuration>
+	<configuration id="position_ordre">0</configuration>
+	<configuration id="contenu">
+		<div id="site_nom">{RESSOURCES.SITE.SITE_NOM}</div>
+	</configuration>
+</configurations>

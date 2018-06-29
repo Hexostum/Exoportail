@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<!-- Liste des modules inclus dans le module -->
+	<configuration id="module_liste_noms"></configuration>
+	<!-- Position du module par rapport à la rubrique -->
+	<configuration id="position">avant_rubrique</configuration>
+	<!-- Ordre -->
+	<configuration id="position_ordre">-1</configuration>
+	<!-- Contenu du module -->
+	<configuration id="contenu">
+		<script type="application/ld+json">
+		{
+		  "@context": "http://schema.org/",
+		  "@type": "LocalBusiness",
+		  "name": "Hexostum Software",
+		  "url": "http://www.exostum.net/"
+		}
+		</script>
+	</configuration>
+</configurations>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms"></configuration>
+	<configuration id="position">dans_module</configuration>
+	<configuration id="position_ordre">0</configuration>
+	<configuration id="decorations"></configuration>
+	<configuration id="contenu">
+		<div class="site_auteur">{RESSOURCES.SITE.AUTEUR} {CONFIGURATION.LIENS.EXOSTUM.EXOSTUM.LIEN}</div>
+		<div class="site_siret">{RESSOURCES.SITE.SIRET}</div>
+		<div class="site_ape">{RESSOURCES.SITE.APE}</div>
+		<div class="site_droits_auteur">{RESSOURCES.SITE.DA}</div>
+		<div class="site_generateur">{RESSOURCES.SITE.GENERATEUR} {CONFIGURATION.LIENS.EXOSTUM.EXOPORTAIL.LIEN}</div>
+	</configuration>
+</configurations>

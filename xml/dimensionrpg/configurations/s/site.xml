@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="url_locale">http://{SERVER:HTTP_HOST}/exoportail/</configuration>
+	<configuration id="url_distante">http://dimensionrpg.exostum.net/</configuration>
+	<configuration id="base_static_html_locale">http://{SERVER:HTTP_HOST}/exoportail/html/</configuration>
+	<configuration id="base_static_html_distante">http://static.exostum.net/</configuration>
+	<configuration id="site_nom">Dimension RPG</configuration>
+	<configuration id="site_encodage">utf-8</configuration>
+</configurations>

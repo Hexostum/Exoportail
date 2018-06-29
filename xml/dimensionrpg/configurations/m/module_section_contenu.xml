@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<!-- Liste des modules inclus dans le module -->
+	<configuration id="module_liste_noms"></configuration>
+	<!-- Position du module par rapport à la rubrique -->
+	<configuration id="position">avant_rubrique</configuration>
+	<!-- Ordre -->
+	<configuration id="position_ordre">0</configuration>
+	<!-- Contenu du module -->
+	<configuration id="contenu">
+		<div class="section_contenu">
+			<h1 class="titre" id="page_titre">Exostum</h1>
+			<div class="flottant_stop"></div>
+		</div>	
+	</configuration>
+</configurations>

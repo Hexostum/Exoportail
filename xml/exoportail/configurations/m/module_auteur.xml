@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms"><!-- <module id="siret" /> --></configuration>
+	<configuration id="position">apres_rubrique</configuration>
+	<configuration id="position_ordre">0</configuration>
+	<configuration id="decorations">
+		<decoration id="element_cadre_haut" ordre="0" position="decoration_avant_module">
+			<decoration id="element_cadre_haut_g"></decoration>
+			<decoration id="element_cadre_haut_d"></decoration>
+		</decoration>
+		<decoration id="element_cadre_bas" ordre="0" position="decoration_apres_module">
+			<decoration id="element_cadre_bas_g"></decoration>
+			<decoration id="element_cadre_bas_d"></decoration>
+		</decoration>
+	</configuration>
+	<configuration id="conteneur">
+		<div class="element" id="info_auteur"></div>
+	</configuration>
+	<configuration id="conteneur_contenu">
+		<adress class="element_cadre_centre"></adress>
+	</configuration>
+	<configuration id="contenu">
+		<div class="element_cadre_haut">
+			<div class="element_cadre_haut_g"></div>
+			<div class="element_cadre_haut_d"></div>
+		</div>
+		<div class="element_cadre_centre">
+			<div class="element_titre">
+				<h1>Informations</h1>
+			</div>
+			<div class="element_contenu centre">
+				<p>Ce site est édité par Scelzo Patrick Jean (Auto-Entrepreneur).</p>
+				<p><span id="SIRET_DESCRIPTION">Code SIRET : </span><strong id="SIRET_NUMBER" title="{RESSOURCES.MODULE.SIRET.DESCRIPTION}">514 550 763 00015</strong></p>
+				<p>Code APE : <strong>6201Z (Programmation Informatique)</strong></p>
+				<p>L'intégralité de ce site est protégé par le droit d'auteur.</p>
+				<!--
+				<a href="http://jigsaw.w3.org/css-validator/check/referer">
+					<img width="88" height="31" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="CSS Valide !" />
+				</a>
+				<a href="http://validator.w3.org/check?uri=referer">
+					<img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Strict" height="31" width="88" />
+				</a>
+				-->
+			</div>
+			</div>
+			<div class="element_cadre_bas">
+				<div class="element_cadre_bas_g"></div>
+				<div class="element_cadre_bas_d"></div>
+			</div>
+	</configuration>
+</configurations>

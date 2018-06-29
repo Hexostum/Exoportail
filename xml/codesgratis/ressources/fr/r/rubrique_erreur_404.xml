@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ressources categorie="rubrique.erreur_404">
+	<ressource id="titre">Erreur 404</ressource>
+	<ressource id="element_titre">Informations.</ressource>
+	<ressource id="element_contenu">Erreur 404 : Cette page n'existe pas sur ce serveur.</ressource>
+</ressources>

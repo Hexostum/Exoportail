@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms">
+		<module id="jsonld" />
+		<module id="page_haut" />
+		<module id="menu" />
+		<module id="auteur" /> 
+	</configuration>
+	<configuration id="page_url">index.php</configuration>
+	<configuration id="contenu">
+		<div class="element">
+			<div class="element_titre">{RESSOURCES.RUBRIQUE.EDITO.TITRE}</div>
+			<div class="element_contenu">{RESSOURCES.RUBRIQUE.EDITO.CONTENU}</div>
+		</div>
+	</configuration>
+</configurations>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms"></configuration>
+	<configuration id="position">dans_module</configuration>
+	<configuration id="position_ordre">0</configuration>
+	<configuration id="decorations"></configuration>
+	<configuration id="contenu">
+		<h2>{CONFIGURATION.LIENS.SITE.SUPPORT.LIEN}</h2>
+	</configuration>
+</configurations>

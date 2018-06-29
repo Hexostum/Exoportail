@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ressources>
+	<ressource id="auteur">Scelzo Patrick Jean</ressource>
+	<ressource id="correcteur">Cassar Christelle</ressource>
+	<ressource id="message_bienvenue">Bienvenue sur CodesGratis d'Exostum !!</ressource>
+	<ressource id="condition_vente">
+Vous obtiendrez ce code dans un délai d'un mois maximum (le délai réel peut être bien plus court, cela dépend de la disponibilité du webmaster).
+	</ressource>
+	<ressource id="explications">Ce site n'attend que vous pour vous faire remporter gratuitement et facilement des {lien_vitrine:"codes audiotels"} pour vos jeux Internet favoris (par exemple : Pack+ pour {lien_prizee} , Y-code pour {lien_yacado} ou Gratcode pour {lien_gratkado}, et {lien_vitrine:"de nombreux autres"} !) !
+	</ressource>
+	<ressource id="explications_2">Le but du jeu est très simple : {lien_inscription:"vous vous inscrivez ici"}, et un lien réservée à votre compte vous sera fourni. Vous devrez amener les gens à visiter la page de ce lien, de manière à gagner un point à chaque visiteur unique (un visiteur ne peut vous faire remporter qu'un point chaque jour) de la page. Vous accumulerez ainsi les points qui vous permettront de {lien_vitrine:"commander"} les codes que vous désirez obtenir.
+	</ressource>
+	<ressource id="phrase_accroche">N'attendez pas {lien_inscription:"inscrivez-vous dès maintenant"}, jouez, et remportez vos codes !</ressource>
+</ressources>

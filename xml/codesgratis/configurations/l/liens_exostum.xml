@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="exostum" href="http://www.exostum.net/" />
+	<configuration id="blog" href="http://blog.exostum.net/" />
+	<configuration id="forum" href="http://forum.exostum.net/" />
+	<configuration id="exoportail" href="http://exoportail.exostum.net/" />
+	<configuration id="dimensionrpg" href="http://dimensionrpg.exostum.net/" />
+</configurations>

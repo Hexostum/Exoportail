@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ressources categorie="module.siret">
+	<ressource id="module">module_siret</ressource>
+	<ressource id="description">Code Siret</ressource>
+	<ressource id="auteur">Exostum</ressource>
+</ressources>

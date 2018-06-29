@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+	<config id="sql_hote">localhost</config>
+	<config id="sql_utilisateur">root</config>
+	<config id="sql_passe"></config>
+	<config id="sql_base_nom">exoportail</config>
+	<config id="sql_type">mysql</config>
+	<config id="sql_table_prefix"></config>	
+</configs>

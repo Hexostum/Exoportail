@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ressources categorie="liens.exostum">
+	<ressource id="exostum_lien">Exostum</ressource>
+	<ressource id="exostum_title">Se rendre sur le site de l'entreprise Exostum</ressource>
+	<ressource id="blog_lien">Blog</ressource>
+	<ressource id="blog_title">Se rendre sur le blog du patron d'Exostum</ressource>
+	<ressource id="forum_lien">Forum</ressource>
+	<ressource id="forum_title">Se rendre sur le forum d'Exostum</ressource>
+	<ressource id="exoportail_lien">Exoportail</ressource>
+	<ressource id="exoportail_title">Se rendre sur le site du produit Exoportail d'Exostum</ressource>
+	<ressource id="dimensionrpg_lien">Dimension RPG</ressource>
+	<ressource id="dimensionrpg_title">Se rendre sur le site Dimension RPG d'Exostum</ressource>
+</ressources>

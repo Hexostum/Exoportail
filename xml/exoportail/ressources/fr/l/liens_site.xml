@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ressources categorie="liens.site">
+	<ressource id="inscription_lien">Inscription.</ressource>
+	<ressource id="inscription_title">Inscrivez-vous dès maintenant, et gagnez des codes gratuitements !</ressource>
+	<ressource id="support_lien">Support</ressource>
+	<ressource id="support_title">Un problème ? Une demande ? Contactez le support !</ressource>
+	<ressource id="edito_lien">Edito</ressource>
+	<ressource id="edito_title">Edito</ressource>
+	<ressource id="nouveautes_lien">Nouveautés</ressource>
+	<ressource id="nouveautes_title">Consulter les nouveautés de Codes Gratis !</ressource>
+	<ressource id="forum_lien">Forum du Site</ressource>
+	<ressource id="forum_title">Forum du Site</ressource>
+	<ressource id="blog_lien">Blog du Site</ressource>
+	<ressource id="blog_title">Blog du Site</ressource>
+</ressources>

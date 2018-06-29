@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ressources categorie="rubrique.nouveautes">
+	<ressource id="titre">Nouveautés</ressource>
+	<ressource id="introduction_auteur">par </ressource>
+	<ressource id="introduction_date">, le </ressource>
+	<ressource id="pas_encore" analyse="true">Il n'y a pas encore de nouveautes sur {RESSOURCES.SITE.SITE_NOM}</ressource>
+	<ressource id="bdd_ko">La base de données est KO.</ressource>
+	<ressource id="sql_ko">la requête SQL générant le contenu de cette page est mal formée.</ressource>
+	<ressource id="auteur">Auteur.</ressource>
+	<ressource id="titre">Titre.</ressource>
+	<ressource id="date">Date.</ressource>
+	<ressource id="tableau_titre" analyse="true">Nouveautés du site {RESSOURCES.SITE.SITE_NOM} (Nombre total de nouveautés : {XTPL.NOUVEAUTE.NOMBRE} )</ressource>
+</ressources>

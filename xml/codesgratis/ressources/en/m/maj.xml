@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ressources>
+	<ressource id="auteur">Cassar Christelle</ressource>
+	<ressource id="message_bienvenue">Welcome on Exostum's CodesGratis !!</ressource>
+	<ressource id="condition_vente">
+You will obtain this code in one month maximum (the actual delay can be shorter, depending on the webmaster's availability).
+	</ressource>
+	<ressource id="explications">This site misses only to make you win freely and easily {lien_vitrine:"audiotels codes"} for your favorite internet games (for example : Pack+ for {lien_prizee} , Y-code for {lien_yacado} or Gratcode for {lien_gratkado}, and {lien_vitrine:"numerous others"} !) !
+	</ressource>
+	<ressource id="explications_2">The game is simple : {lien_inscription:"you register here"}, and a link reserved to your account will be given. You will have to make people visit this link, so you will gain one point for each unique visitor (a visitor can only make you win one point per day) on this link. You will accumulate points that will enable you to {lien_vitrine:"order"} the codes you wish for.
+	</ressource>
+	<ressource id="phrase_accroche">So lets go and {lien_inscription:"register now"}, play, and win your codes !</ressource>
+</ressources>

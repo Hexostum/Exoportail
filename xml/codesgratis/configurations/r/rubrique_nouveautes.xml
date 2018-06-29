@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms">
+		<module id="page_haut" />
+		<module id="menu" />
+		<module id="page_bas" />
+	</configuration>
+	<configuration id="page_url">rubrique_id=nouveautes</configuration>
+	<configuration id="contenu_nouveaute">
+			<div class="element" id="nouveaute_{XTPL.NOUVEAUTE.NOUVEAUTE_ID}">
+				<div class="element_titre">Nouveaute du site {RESSOURCES.SITE.SITE_NOM} N°{XTPL.NOUVEAUTE.NOUVEAUTE_ID}</div>
+				<div class="element_contenu">
+					<div class="maj" id="maj_{XTPL.NOUVEAUTE.NOUVEAUTE_ID}">
+						<table>
+							<tr>
+								<th>Auteur.</th>
+								<th>Message.</th>
+								<th>Date.</th>
+							</tr>
+							<tr>
+								<td class="message_auteur">{XTPL.NOUVEAUTE.AUTEUR}</td>
+								<td>
+									<div class="message_titre">{XTPL.NOUVEAUTE.TITRE}</div>
+									<div class="message_texte">{XTPL.NOUVEAUTE.TEXTE}</div>
+									<hr />
+									<div class="message_signature">{XTPL.NOUVEAUTE.AUTEUR_SIGNATURE}</div>
+								</td>
+								<td class="message_date">{XTPL.NOUVEAUTE.DATE}</td>
+							</tr>
+							{XTPL.NOUVEAUTE.PAGINATION.HAUT}
+							{XTPL.NOUVEAUTE.MESSAGES}
+							{XTPL.NOUVEAUTE.PAGINATION.BAS}
+						</table>
+					</div>
+				</div>
+			</div>
+	</configuration>
+	<configuration id="contenu_resume_tableau">
+		<table>
+			<tr>
+				<th colspan="3">{RESSOURCES.RUBRIQUE.NOUVEAUTES.TABLEAU_TITRE}</th>
+			</tr>
+			<tr>
+				<th>{RESSOURCES.RUBRIQUE.NOUVEAUTES.AUTEUR}</th>
+				<th class="colonne_nouveaute_titre" width="80%">{RESSOURCES.RUBRIQUE.NOUVEAUTES.TITRE}</th>
+				<th>{RESSOURCES.RUBRIQUE.NOUVEAUTES.DATE}</th>
+			</tr>
+		</table>
+	</configuration>
+	<configuration id="contenu_resume_tableau_ligne">
+		<tr id="nouveaute_{XTPL.NOUVEAUTE.NOUVEAUTE_ID}">
+			<td>{XTPL.NOUVEAUTE.AUTEUR}</td>
+			<td>{XTPL.NOUVEAUTE.TITRE}</td>
+			<td>{XTPL.NOUVEAUTE.DATE}</td>
+		</tr>
+	</configuration>
+	<configuration id="contenu_erreur_nouveautes">
+		<div class="erreur_contenu_titre">{XTPL.NOUVEAUTE.ERREUR_TITRE}</div>
+		<div class="erreur_contenu_message">{XTPL.NOUVEAUTE.ERREUR_MESSAGE}</div>
+	</configuration>
+</configurations>

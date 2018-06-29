@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ressources categorie="site">
+	<ressource id="site_nom">Exostum</ressource>
+	<ressource id="generateur">Ce site a été généré avec le CMS</ressource>
+	<ressource id="auteur">Ce site est édité par l'entreprise </ressource>
+	<ressource id="siret">Code SIRET : 514 550 763 00015</ressource>
+	<ressource id="ape">Code APE : 6201Z (Programmation Informatique)</ressource>
+	<ressource id="da">L'intégralité de ce site est protégé par le droit d'auteur.</ressource>
+</ressources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+	<config id="connection">mysql_connect</config>
+	<config id="erreur">mysql_error</config>
+	<config id="selection_bdd">mysql_select_db</config>
+	<config id="requete">mysql_query</config>
+	<config id="resultat">mysql_result</config>
+	<config id="get_enregistrement_objet">mysql_fetch_object</config>
+	<config id="get_enregistrement_array">mysql_fetch_array</config>	
+</configs>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ressources auteur="exostum" categorie="nouveaute">
+	<ressource id="nouveaute_titre">Titre de la nouveaute 4</ressource>
+	<ressource id="nouveaute_texte">texte de la nouveaute 4</ressource>
+</ressources>

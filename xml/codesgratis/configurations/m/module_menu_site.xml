@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms"></configuration>
+	
+	<configuration id="position">dans_module</configuration>
+	<configuration id="position_ordre">0</configuration>
+	
+	<configuration id="contenu">
+		<h2>{RESSOURCES.EXOSTUM.CODESGRATIS_TEXTE}</h2>
+		<ul>
+			<li>{CONFIGURATION.LIENS.SITE.EDITO.LIEN}</li>
+			<li>{CONFIGURATION.LIENS.SITE.NOUVEAUTES.LIEN}</li>
+			<li>{CONFIGURATION.LIENS.SITE.COMMENTAIRES.LIEN}</li>
+		</ul>
+	</configuration>
+</configurations>

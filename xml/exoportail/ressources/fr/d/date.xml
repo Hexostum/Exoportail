@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ressources auteur="exostum" categorie="date">
+	<ressource id="date_format">{DATE.JOUR} {DATE.MOIS} {DATE.AN}<br />{DATE.HEURES}H {DATE.MINUTES}M {DATE.SECONDES}S </ressource>
+	<ressource id="mois_1">Janvier</ressource>
+	<ressource id="mois_2">Février</ressource>
+	<ressource id="mois_3">Mars</ressource>
+	<ressource id="mois_4">Avril</ressource>
+	<ressource id="mois_5">Mai</ressource>
+	<ressource id="mois_6">Juin</ressource>
+	<ressource id="mois_7">Juillet</ressource>
+	<ressource id="mois_8">Août</ressource>
+	<ressource id="mois_9">Septembre</ressource>
+	<ressource id="mois_10">Octobre</ressource>
+	<ressource id="mois_11">Novembre</ressource>
+	<ressource id="mois_12">Décembre</ressource>
+</ressources>

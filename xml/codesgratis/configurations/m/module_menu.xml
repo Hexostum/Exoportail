@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms">
+		<module id="menu_exostum" />
+		<module id="menu_site" />
+	</configuration>
+	<configuration id="position">avant_rubrique</configuration>
+	<configuration id="position_ordre">1</configuration>
+	
+</configurations>

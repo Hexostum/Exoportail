@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<configuration id="module_liste_noms">
+		<module id="page_haut" />
+		<module id="menu" />
+		<module id="auteur" />
+	</configuration>
+	<configuration id="page_url">index.php</configuration>
+	<configuration id="conteneur">
+		<div class="rubrique_conteneur"></div>
+	</configuration>
+	<configuration id="contenu">
+		<div class="element">
+			{RESSOURCES.RUBRIQUE.EDITO.CONTENU}
+		</div>
+	</configuration>
+</configurations>
